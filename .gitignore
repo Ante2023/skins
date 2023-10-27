@@ -41,6 +41,9 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+skin/node_modules/
+skin/jspm_packages/
+
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -73,7 +76,7 @@ web_modules/
 .yarn-integrity
 
 # dotenv environment variable files
-.env
+#.env  # subo este fichero SOLO para que pueda ser revisado, realmente esto no se hace en producción
 .env.development.local
 .env.test.local
 .env.production.local

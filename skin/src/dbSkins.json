@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "nombre": "nombreSkyn",
+    "tipo": "tipoSkin",
+    "precio": 23456.78,
+    "color": "celeste"
+  },
+  {
+    "id": 2,
+    "nombre": "skin armadura 20w343",
+    "tipo": "Legendario",
+    "precio": 3456472.00,
+    "color": "rojo"
+  },
+  {
+    "id": 6,
+    "nombre": "skin armadura 23e3",
+    "tipo": "Legendario",
+    "precio": 3456472.00,
+    "color": "blanco"
+  },
+  {
+    "id": 7,
+    "nombre": "skin armadura 20w23",
+    "tipo": "Legendario",
+    "precio": 34564720.03,
+    "color": "amarilo"
+  },
+  {
+    "id": 9,
+    "nombre": "skin 234wd",
+    "tipo": "legendary",
+    "precio": 23095.44,
+    "color": "verde"
+  },
+  {
+    "id": 11,
+    "nombre": "skin 2wd",
+    "tipo": "legendary",
+    "precio": 234.78,
+    "color":"azul"
+  },
+  {
+    "id": 14,
+    "nombre": "skin1",
+    "tipo": "avatar",
+    "precio": 234.78,
+    "color": "amarilo"
+  },
+  {
+    "id": 15,
+    "nombre": "skin2",
+    "tipo": "avatar2",
+    "precio": 56.78,
+    "color": "rojo"
+  },
+  {
+    "id": 16,
+    "nombre": "skin3",
+    "tipo": "avatar3",
+    "precio": 942.78,
+    "color":"azul"
+  },
+  {
+    "id": 17,
+    "nombre": "skin4",
+    "tipo": "avatar4",
+    "precio": 200.00,
+    "color":"morado"
+  },
+  {
+    "id": 18,
+    "nombre":"skin aa87d",
+    "tipo": "legendary",
+    "precio": 23095.44,
+    "color": "azul"
+  },
+  {
+    "id": 19,
+    "nombre": "email_1 aatt87d",
+    "tipo": "legendary",
+    "precio": 235.44,
+    "color": "marrron"
+  },
+  {
+    "id": 20,
+    "nombre": "email_1 ne87d",
+    "tipo": "armadura",
+    "precio": 8190.12,
+    "color": "amarilo"
+  },
+  {
+    "id": 21,
+    "nombre": "email_1 187der",
+    "tipo": "casco",
+    "precio": 34567.12,
+    "color": "verde"
+  },
+  {
+    "id": 22,
+    "nombre": "email_1 f345",
+    "tipo": "lanza",
+    "precio": 67.12,
+    "color": "blanco"
+  },
+  {
+    "id": 23,
+    "nombre": "email_2 me432",
+    "tipo": "lanza",
+    "precio": 6.12,
+    "color": "morado"
+  },
+  {
+    "id": 24,
+    "nombre": "email_2 nrr",
+    "tipo": "rifle",
+    "precio": 6451.12,
+    "color": "rojo"
+  },
+  {
+    "id": 25,
+    "nombre": "email_2 yh45",
+    "tipo": "tanque",
+    "precio": 349023.12,
+    "color":"verde"
+  },
+  {
+    "id": 26,
+    "nombre": "email_2 3ht4",
+    "tipo": "nave",
+    "precio": 34902313.12,
+    "color": "blanco"
+  },
+  {
+    "id": 27,
+    "nombre": "email_2 DEFAULT",
+    "tipo": "nave",
+    "precio": 34902313.12,
+    "color": "rojo"
+  },
+  {
+    "id": 28,
+    "nombre": "email_2 SINCOOR",
+    "tipo": "nave",
+    "precio": 34902313.12,
+    "color": "amarilo"
+  },
+  {
+    "id": 29,
+    "nombre": "skin-435ft4",
+    "tipo": "programador",
+    "precio": 34085.52,
+    "color": "incoloro"
+  },
+  {
+    "id": 30,
+    "nombre": "skin-434",
+    "tipo": "programador",
+    "precio": 34085.52,
+    "color": "incoloro"
+  }
+]
